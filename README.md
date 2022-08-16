@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dawid Bańczak</h1>
 <h3 align="center">A passionate developer from Poland</h3>
+<h3> Currently I'm:</h3>
 
-- ⚡ Creating App with SOLID, Design Patterns etc. [HRLeaveManagementSOLID](https://github.com/plolon/HRLeaveManagementSOLID)
+- :point_right: Creating App with SOLID, Design Patterns etc. [HRLeaveManagementSOLID](https://github.com/plolon/HRLeaveManagementSOLID)
 
-- 🌱 I’m currently learning **Design Patterns, Angular, mastering ASP.NET**
+- :muscle: Creating Full App with ASP.NET and Angular [DatingApp](https://github.com/plolon/DatingApp)
 
-- ⚡ Creating Full App with ASP.NET and Angular [DatingApp](https://github.com/plolon/DatingApp)
-
-- 🤝 Testing things in nodejs express [nodejslearningbackend](https://github.com/plolon/nodejslearningbackend)
+- :green_heart: Testing things in nodejs express [nodejslearningbackend](https://github.com/plolon/nodejslearningbackend)
 
 <h3 align="left">Socials:</h3>
 <p align="left">
