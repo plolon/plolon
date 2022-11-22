@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Poland</h3>
 <h3> Currently I'm:</h3>
 
-- :point_right: Creating App with SOLID, Design Patterns etc. [HRLeaveManagementSOLID](https://github.com/plolon/HRLeaveManagementSOLID)
+- :point_right: Creating Fullstack App with SOLID, DDD, CQRS, Angular etc. [ToDoList](https://github.com/plolon/ToDoList)
 
-- :muscle: Creating Full App with ASP.NET and Angular [DatingApp](https://github.com/plolon/DatingApp)
+- :muscle: Learning how to create apps with Microservices [Alpha](https://github.com/plolon/alpha)
 
 - :green_heart: Testing things in nodejs express [nodejslearningbackend](https://github.com/plolon/nodejslearningbackend)
 
