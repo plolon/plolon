@@ -4,6 +4,8 @@
 
 - :point_right: Creating Fullstack App with SOLID, DDD, CQRS, Angular etc. [ToDoList](https://github.com/plolon/ToDoList)
 
+- :point_right: Creating Fullstack App with SOLID, DDD, CQRS, Angular etc. but with firends [HotelManagement](https://github.com/plolon/HotelManagement)
+
 - :muscle: Learning how to create apps with Microservices [Alpha](https://github.com/plolon/alpha)
 
 - :green_heart: Testing things in nodejs express [nodejslearningbackend](https://github.com/plolon/nodejslearningbackend)
